@@ -14,7 +14,7 @@
 
 		&:before {
 			@include vendor('pointer-events', 'none');
-			background-image: url('../../images/background_cropped.png') !important; ///url('../../images/background_cropped.png');
+			background-image: url('../../images/bg.jpg'); ///url('../../images/background_cropped.png');
 			///background-color: _palette(bg-overlay);
 			background-color:  #000000 ;
 			border-radius: _size(border-radius);
